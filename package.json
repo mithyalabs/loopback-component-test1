@@ -12,10 +12,6 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "repository": {
-    "type": "",
-    "url": ""
-  },
   "license": "MIT",
   "description": "testcomponent"
 }
